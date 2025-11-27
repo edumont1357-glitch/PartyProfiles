@@ -4,7 +4,7 @@ DemocratsVSWhigs
 <html>
 <head>
   <title>Democrats VS Whigs Party Profile</title>
-  <link rel="stylesheet" href="/workspaces/PartyProfiles/body {.css">
+  <link rel="stylesheet"style.css">
 </head>
 
 <body>
