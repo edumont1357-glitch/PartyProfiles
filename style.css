@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #de0808;
+  margin: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.profile {
+  background: rgb(33, 28, 167);
+  padding: 20px;
+  margin: 20px auto;
+  width: 70%;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.democrat {
+  border-left: 10px solid #cb2bb0; /* Blue */
+}
+
+.whig {
+  border-left: 10px solid #d08c0b; /* Gold */
+}
+
+h2 {
+  margin-top: 0;
+  }
